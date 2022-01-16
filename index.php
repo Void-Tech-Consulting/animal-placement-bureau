@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div id="page-content">
-  HOME
+  HOME :) 
 </div>
 
 <?php get_footer(); ?>
